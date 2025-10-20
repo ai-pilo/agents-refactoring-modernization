@@ -1,24 +1,26 @@
 {
+  "name": "agents-refactoring-modernization",
+  "owner": "ai-pilo",
   "plugins": [
     {
       "name": "code-refactoring",
       "version": "1.2.2",
-      "path": "plugins/code-refactoring"
+      "source": "plugins/code-refactoring"
     },
     {
       "name": "framework-migration",
       "version": "1.2.2",
-      "path": "plugins/framework-migration"
+      "source": "plugins/framework-migration"
     },
     {
       "name": "dependency-management",
       "version": "1.2.2",
-      "path": "plugins/dependency-management"
+      "source": "plugins/dependency-management"
     },
     {
       "name": "codebase-cleanup",
       "version": "1.2.2",
-      "path": "plugins/codebase-cleanup"
+      "source": "plugins/codebase-cleanup"
     }
   ]
 }
